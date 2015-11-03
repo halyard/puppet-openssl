@@ -1,0 +1,22 @@
+{
+  "name": "halyard-openssl",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "summary": "Install OpenSSL from brew",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-openssl",
+  "project_page": "https://github.com/halyard/puppet-openssl",
+  "issues_url": "https://github.com/halyard/puppet-openssl/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
